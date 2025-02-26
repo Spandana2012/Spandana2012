@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spandana2012
-- 👀 I’m interested in 
+- 👀 I’m interested in exploring myself
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
