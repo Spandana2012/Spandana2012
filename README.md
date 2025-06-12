@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SpandanaGudikandula
 - 👀 I’m interested in exploring myself..
-- 🌱 I’m currently learning full stack web development..
+- 🌱 I’m currently learning full stack web development and Generative AI..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : LinkedIn...
 - 😄 Pronouns: she
 - ⚡ Fun fact: Bananas are berries, but strawberries aren't!
 
